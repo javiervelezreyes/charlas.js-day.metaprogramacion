@@ -27,13 +27,13 @@ En esta charla exploramos como construir programas que se modifiquen a si mismos
 - Capacidades de JavaScript En El Modelo Funcional
 
 #### Capítulo 3. Técnicas De Metaprogramación Compositiva
-￼- Técnicas de Adición Compositiva
+-Técnicas de Adición Compositiva
 - Técnicas de Extensión Compositiva
 - Técnicas de Intercesión Compositiva
 - Técnicas de Delegación Compositiva
 
 #### Capítulo 4. Patrones De Metaprogramación Compositiva
-￼- Patrones de Selección
+- Patrones de Selección
 - Patrones de Adaptación
 - Patrones de Composición
 - Patrones de Encapsulación
